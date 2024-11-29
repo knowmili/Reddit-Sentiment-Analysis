@@ -38,7 +38,7 @@ This Python command-line tool analyzes the sentiment of Reddit posts on a specif
    ```pip install .```
 
 ## Setup
-1Reddit API Credentials
+Reddit API Credentials
 1. Create a Reddit app at Reddit Apps.
 2. Note the following credentials:
     - Client ID
