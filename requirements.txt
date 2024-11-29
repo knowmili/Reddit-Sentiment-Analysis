@@ -1,0 +1,5 @@
+praw
+nltk
+textblob
+matplotlib
+wordcloud
